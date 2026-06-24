@@ -55,7 +55,7 @@ http.request.method == "POST"
 
 El filtro permitió visualizar únicamente las solicitudes HTTP que enviaban información al servidor.
 
-![[img/01_filtro_post.png]]
+![Filtro POST](img/01_filtro_post.png)
 
 Entre los resultados encontrados destacaban varias peticiones relacionadas con autenticación:
 
@@ -95,7 +95,7 @@ password=n0_3st4b4_mu3rt0_4nd4b4_d3_p4rr4nd4
 
 La siguiente captura muestra las credenciales encontradas dentro del paquete 1049:
 
-![[img/02_paquete_1049.png]]
+![Paquete 1049](img/02_paquete_1049.png)
 
 ---
 
@@ -149,7 +149,7 @@ Resultado:
 
 La siguiente captura muestra la generación del hash MD5:
 
-![[img/03_md5.png]]
+![MD5](img/03_md5.png)
 
 Finalmente se construyó la bandera utilizando el formato solicitado:
 
