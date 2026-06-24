@@ -154,7 +154,7 @@ La siguiente captura muestra la generación del hash MD5:
 Finalmente se construyó la bandera utilizando el formato solicitado:
 
 ```text
-cidsi{082631b9a58098ab828df3762d240144}
+cidsi{********************************}
 ```
 
 ---
@@ -162,7 +162,7 @@ cidsi{082631b9a58098ab828df3762d240144}
 # 7. Flag
 
 ```text
-cidsi{082631b9a58098ab828df3762d240144}
+cidsi{********************************}
 ```
 
 ---
